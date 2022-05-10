@@ -1,0 +1,3 @@
+Det bildas olika windows. Försök lösa så att det blir en enda window.
+Försök få bättre struktur med uppdelning av koden.
+Försök fixa så att man kan backa genom att trycka på backspace.
